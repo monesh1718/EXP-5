@@ -1,3 +1,4 @@
+
 # EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
@@ -16,6 +17,9 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
+
+<img width="841" height="395" alt="566522585-a38233fc-3fa2-41a5-8697-6b8e45070f52" src="https://github.com/user-attachments/assets/a1548743-7f9f-4043-ba46-3b22e5866e98" />
+
 THEORY:
 	
 A zener diode is heavily doped p-n junction diode, specially made to operate in the break down region. A p-n junction diode normally does not conduct when reverse biased. But if the reverse bias is increased, at a particular voltage it starts conducting heavily. This voltage is called Break down Voltage. High current through the diode can permanently damage the device To avoid high current, we connect a resistor in series with zener diode. Once the diode starts conducting it maintains almost constant voltage across the terminals what ever may be the current through it, i.e., it has very low dynamic resistance. It is used in voltage regulators.
@@ -28,10 +32,12 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+<img width="1012" height="1600" alt="566523899-6fed232e-bf9d-493a-9cdc-6e704ce47265" src="https://github.com/user-attachments/assets/be7d1b91-ee47-4446-9807-d3743580a7d1" />
 
-REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+<img width="1021" height="1507" alt="566523986-159e96aa-39ca-4986-b6f3-55fb01421b4f" src="https://github.com/user-attachments/assets/1c2bb876-601c-4946-b67d-4b27b0ec2f82" />
+
+<img width="848" height="1294" alt="566524093-cfbf9e0d-61e4-472d-9440-65464e1365cc" src="https://github.com/user-attachments/assets/8f85f671-bf28-4bc0-99f0-c66b9223896f" />
 
 PRECAUTIONS:
 
